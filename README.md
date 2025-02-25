@@ -51,7 +51,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hoque0&theme=algolia&no-frame=true&margin-w=10&column=6"/>
 </div>  
 
-📊 **GitHub Activity Graph **  
+📊 **GitHub Activity Graph**  
 [![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
 
