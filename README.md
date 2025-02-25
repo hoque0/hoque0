@@ -1,6 +1,8 @@
+(https://neerbhor.com/wp-content/uploads/2025/02/IMG_5751-scaled.jpg)
+
 ### Hi there 👋, Hi, It's Momenul Hoque
 #### Telecommunication Engineer | Tech Enthusiasts 
-![Telecommunication Engineer | Tech Enthusiasts ](https://neerbhor.com/wp-content/uploads/2025/02/IMG_5751-scaled.jpg)
+![Telecommunication Engineer | Tech Enthusiasts ]
 
 **About Me:**  
 Engineering graduate with expertise in electronics, telecommunications, and software development. Skilled in circuit design, IoT, blockchain applications, VLSI simulation, and WordPress website development. Passionate about problem-solving, technology, and continuous learning.
@@ -26,8 +28,6 @@ Skills: Matlab / HTML
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoque0)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoque0&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hoque0/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/hoque0)  
 
