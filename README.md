@@ -41,7 +41,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoque0&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>  
 
-🎯 **GitHub Profile Views**  
+---
+
+## 🎯 GitHub Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=hoque0&color=blueviolet&style=flat-square)  
 
 ---
@@ -53,11 +55,10 @@
 
 ---
 
-📊 **GitHub Activity Graph**  
+## 📊 GitHub Activity Graph  
 [![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
-
-
+---
 
 ## 🌟 GitHub Badges 
 ![Arctic Contributor](https://img.shields.io/badge/Arctic%20Contributor-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
