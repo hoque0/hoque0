@@ -55,10 +55,10 @@
 [![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
 🔥 **GitHub Streak Stats**  
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=hoque0&theme=radical&hide_border=true)    
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hoque0&theme=tokyonight&hide_border=true)
 
 🚀 **GitHub Metrics**  
-![GitHub Metrics](https://metrics.lecoq.io/hoque0?template=terminal&isocalendar=1&languages=1&habits=1&introduction=1&activity=1&achievements=1&repositories=1)  
+![GitHub Metrics](https://github-readme-metrics.vercel.app/api?username=hoque0&theme=tokyonight)  
 
 🌟 **GitHub Badges**  
 ![Arctic Contributor](https://img.shields.io/badge/Arctic%20Contributor-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
