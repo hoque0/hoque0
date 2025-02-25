@@ -31,4 +31,4 @@ Skills: Matlab / HTML
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hoque0)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=prussian_icons=true)
+![Hoque’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hoque0&theme=prussian_icons=true)
