@@ -51,13 +51,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hoque0&theme=algolia&no-frame=true&margin-w=10&column=6"/>
 </div> 
 
+---
+
 📊 **GitHub Activity Graph**  
 [![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
 
 
 
-🌟 **GitHub Badges**  
+## 🌟 GitHub Badges 
 ![Arctic Contributor](https://img.shields.io/badge/Arctic%20Contributor-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Developer Program](https://img.shields.io/badge/Developer%20Program-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Stars Program](https://img.shields.io/badge/Stars%20Program-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
@@ -66,22 +68,6 @@
 
 ---
 
-## 🌟 GitHub Badges  
-
-<a href='https://archiveprogram.github.com/'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
-</a> 
-<a href='https://docs.github.com/en/developers'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a> 
-<a href='https://github.com/pricing'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
-</a> 
-<a href='https://stars.github.com/'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
-</a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
-</a> 
+ 
 
 
