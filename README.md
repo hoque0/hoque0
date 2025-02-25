@@ -1,6 +1,7 @@
+(https://neerbhor.com/wp-content/uploads/2025/02/IMG_5751-scaled.jpg)
 ### Hi there 👋, Hi, It's Momenul Hoque
 #### Telecommunication Engineer | Tech Enthusiasts 
-![Telecommunication Engineer | Tech Enthusiasts ]https://scontent.fdac184-1.fna.fbcdn.net/v/t39.30808-6/480836886_2876042529235465_7617882839098395686_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEL4zUroulcIhMPKrsRvhnduYyIDtjhV-u5jIgO2OFX61q53F9sW-FO1ZNvDuY6rXToWvSvcahOfFReb7yPhQLQ&_nc_ohc=c7G5FG7TDNUQ7kNvgHJZjJg&_nc_oc=AdiSDvLUHzrcs1OzPnp2sxgYSDAq4j83shJeA2MgAljx6F49ehxeoHaFVf5RoZxmFDA&_nc_zt=23&_nc_ht=scontent.fdac184-1.fna&_nc_gid=ABmm6EpGmvWnohpM1dRRZAY&oh=00_AYDxuHgvg7ttCngD5BfI_Aekz758c7P3Su0DstF9ObTDRA&oe=67C36815
+![Telecommunication Engineer | Tech Enthusiasts ]
 
 **About Me:**  
 Engineering graduate with expertise in electronics, telecommunications, and software development. Skilled in circuit design, IoT, blockchain applications, VLSI simulation, and WordPress website development. Passionate about problem-solving, technology, and continuous learning.
