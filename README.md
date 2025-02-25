@@ -55,6 +55,8 @@
 [![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hoque0)](https://github.com/ryo-ma/github-profile-trophy)
+
 🌟 **GitHub Badges**  
 ![Arctic Contributor](https://img.shields.io/badge/Arctic%20Contributor-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Developer Program](https://img.shields.io/badge/Developer%20Program-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
