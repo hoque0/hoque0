@@ -1,4 +1,4 @@
-(https://neerbhor.com/wp-content/uploads/2025/02/IMG_5751-scaled.jpg)
+![(https://neerbhor.com/wp-content/uploads/2025/02/IMG_5751-scaled.jpg)]
 
 ### Hi there 👋, Hi, It's Momenul Hoque
 #### Telecommunication Engineer | Tech Enthusiasts 
