@@ -1,26 +1,24 @@
 
 ![Profile Banner](https://neerbhor.com/wp-content/uploads/2025/02/IMG_5751-scaled.jpg)
 
-<h1 style="font-family: 'Times New Roman', serif;">🌟 Hi, I'm Momenul Hoque! 👋</h1>
+# 🌟 Hi, I'm Momenul Hoque! 👋  
 
-<h2 style="font-family: 'Times New Roman', serif;">🚀 About Me</h2>
-
-<p style="font-family: 'Times New Roman', serif;">
+## 🚀 About Me  
 🔭 Telecommunication Engineer | Tech Enthusiast | Problem Solver
-</p>
 
-<p style="font-family: 'Times New Roman', serif;">
-🎯 Passionate about technology, innovation, and continuous learning.
-</p>
+🎯 Passionate about technology, innovation, and continuous learning.  
 
-<ul style="font-family: 'Times New Roman', serif;">
-  <li>🌱 <b>Currently Learning:</b> WordPress Development, Blockchain Integration</li>
-  <li>🏗 <b>Currently Working On:</b> Establishing my organic food business</li>
-  <li>🤝 <b>Open to Collaborations On:</b> WordPress development, Blockchain projects, IoT applications, and Circuit design</li>
-  <li>🔍 <b>Seeking Help With:</b> Advanced WordPress development, Plugin customization, Blockchain expansion</li>
-  <li>💬 <b>Ask Me About:</b> Web development, IoT, Blockchain, Circuit design, and Problem-solving</li>
-  <li>📌 <b>Fun Fact:</b> Learning German & love photography 📸</li>
-</ul>
+- 🌱 **Currently Learning:** WordPress Development, Blockchain Integration.
+   
+- 🏗 **Currently Working On:** Establishing my organic food business.
+
+- 🤝 **Open to Collaborations On:** WordPress development, Blockchain projects, IoT applications, and Circuit design.
+   
+- 🔍 **Seeking Help With:** Advanced WordPress development, Plugin customization, Blockchain expansion.
+
+- 💬 **Ask Me About:** Web development, IoT, Blockchain, Circuit design, and Problem-solving.
+   
+- 📌 **Fun Fact:** Learning German & love photography 📸  
 
 
 ---
