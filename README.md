@@ -64,7 +64,9 @@
 ## 📊 GitHub Activity Graph  
 [![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
+---
 
+[![Hoque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0)](https://github.com/hoque0/github-readme-activity-graph)[![Hoque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham)](https://github.com/hoque0/github-readme-activity-graph)
 
 ---
 
