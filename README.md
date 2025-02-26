@@ -73,6 +73,9 @@
 
 [![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham)](https://github.com/hoque0/github-readme-activity-graph)
 
+[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham?v=1)](https://github.com/hoque0/github-readme-activity-graph)
+[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham&bg_color=000000&color=00ff00&line=ff0000&point=ffffff)](https://github.com/hoque0/github-readme-activity-graph)
+[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham&hide_border=true)](https://github.com/hoque0/github-readme-activity-graph)
 
 ---
 
