@@ -68,6 +68,9 @@
 
 [![Hoque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0)](https://github.com/hoque0/github-readme-activity-graph)[![Hoque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham)](https://github.com/hoque0/github-readme-activity-graph)
 
+
+[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=dracula)](https://github.com/hoque0/github-readme-activity-graph)
+
 ---
 
 ## 🌟 GitHub Badges 
