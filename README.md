@@ -62,22 +62,9 @@
 ---
 
 ## 📊 GitHub Activity Graph  
-[![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=tokyo-night&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
-
+[![Momenul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham)](https://github.com/hoque0/github-readme-activity-graph)
 ---
 
-[![Hoque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0)](https://github.com/hoque0/github-readme-activity-graph)[![Hoque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham)](https://github.com/hoque0/github-readme-activity-graph)
-
-
-[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=dracula)](https://github.com/hoque0/github-readme-activity-graph)
-
-[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham)](https://github.com/hoque0/github-readme-activity-graph)
-
-[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham?v=1)](https://github.com/hoque0/github-readme-activity-graph)
-[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham&bg_color=000000&color=00ff00&line=ff0000&point=ffffff)](https://github.com/hoque0/github-readme-activity-graph)
-[![Hoque's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoque0&theme=gotham&hide_border=true)](https://github.com/hoque0/github-readme-activity-graph)
-
----
 
 ## 🌟 GitHub Badges 
 ![Arctic Contributor](https://img.shields.io/badge/Arctic%20Contributor-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
@@ -86,7 +73,7 @@
 ![Sponsor](https://img.shields.io/badge/Sponsor-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-###### -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  -  - 
+###### -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  - -  -  -  - - - - - - - 
 
  
 
